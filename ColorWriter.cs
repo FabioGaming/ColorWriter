@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ColowWriter
+namespace ColorWriter
 {
     class ColorWriter
     {
         //Allows you to Print colored text.
-        //Example usage: FLSharp.Printcolor("this is green text", "green");
+        //Example usage: ColorWriter.Print("this is green text", "green"); (If you don't change the NameSpace the usage is: ColorWriter.ColorWriter.Print("this is green text", "green"); )
         /* Color List
          * black
          * blue
